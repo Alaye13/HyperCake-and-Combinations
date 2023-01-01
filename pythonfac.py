@@ -1,5 +1,4 @@
 # Ifenna ekwenem
-# Mr Reaser
 number = int(input("Enter a numberber: "))  
 n = number
 r = number   
